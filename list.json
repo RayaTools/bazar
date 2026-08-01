@@ -11,11 +11,10 @@
     "battery": "95",
     "part": "Zaa",
     "registered": "true",
-    "images": 
-    "https://uploadkon.ir/uploads/e64301_2614-pro-256-black-zaa-1-768x1024.jpg",
-    "https://uploadkon.ir/uploads/06e201_2614-pro-256-black-zaa-6-768x1024.jpg",
-    "https://uploadkon.ir/uploads/1e9501_2614-pro-256-black-zaa-2-768x1024.jpg"
-  
+    "images1": "https://uploadkon.ir/uploads/236f01_2614-pro-256-black-zaa-1-768x1024.jpg",
+    "images2": "https://uploadkon.ir/uploads/45dc01_2614-pro-256-black-zaa-2-768x1024.jpg",
+    "images3": "https://uploadkon.ir/uploads/377101_2614-pro-256-black-zaa-6-768x1024.jpg",
+    "images4": "https://uploadkon.ir/uploads/42fa01_2614-pro-256-black-zaa-5-768x662.jpg",
     "tags": "جدید",
     "discount_percent": "0"
   },
@@ -31,7 +30,7 @@
     "battery": "88",
     "part": "Zaa",
     "registered": "true",
-    "images": "https://uploadkon.ir/uploads/5c8b01_26iphone-16-normal-256-gb-2-768x1024.jpg",
+    "images1": "https://uploadkon.ir/uploads/5c8b01_26iphone-16-normal-256-gb-2-768x1024.jpg",
     "tags": "جدید",
     "discount_percent": "0"
   },
@@ -47,7 +46,7 @@
     "battery": "92",
     "part": "Zaa",
     "registered": "false",
-    "images": "https://uploadkon.ir/uploads/650401_26IMG-7446-768x1024.jpg",
+    "images1": "https://uploadkon.ir/uploads/650401_26IMG-7446-768x1024.jpg",
     "tags": "جدید",
     "discount_percent": "0"
   },
@@ -63,7 +62,7 @@
     "battery": "94",
     "part": "Zaa",
     "registered": "false",
-    "images": "https://uploadkon.ir/uploads/2d2101_26IMG-4779-768x1024.jpeg",
+    "images1": "https://uploadkon.ir/uploads/2d2101_26IMG-4779-768x1024.jpeg",
     "tags": "جدید",
     "discount_percent": "0"
   },
@@ -79,7 +78,7 @@
     "battery": "83",
     "part": "Zaa",
     "registered": "false",
-    "images": "https://uploadkon.ir/uploads/3c0801_26IMG-7469-768x1024.jpg",
+    "images1": "https://uploadkon.ir/uploads/3c0801_26IMG-7469-768x1024.jpg",
     "tags": "جدید",
     "discount_percent": "0"
   },
@@ -95,7 +94,7 @@
     "battery": "80",
     "part": "Zaa",
     "registered": "false",
-    "images": "https://uploadkon.ir/uploads/943501_26photo-1-2025-10-19-20-43-08-768x1024.jpg",
+    "images1": "https://uploadkon.ir/uploads/943501_26photo-1-2025-10-19-20-43-08-768x1024.jpg",
     "tags": "جدید",
     "discount_percent": "0"
   },
@@ -111,7 +110,7 @@
     "battery": "100",
     "part": "Zaa",
     "registered": "false",
-    "images": "https://uploadkon.ir/uploads/0b9701_26photo-1-2025-11-17-14-15-19-768x1024.jpg",
+    "images1": "https://uploadkon.ir/uploads/0b9701_26photo-1-2025-11-17-14-15-19-768x1024.jpg",
     "tags": "جدید",
     "discount_percent": "0"
   },
@@ -127,7 +126,7 @@
     "battery": "100",
     "part": "Zaa",
     "registered": "false",
-    "images": "https://uploadkon.ir/uploads/da7301_26photo-5-2026-02-17-14-16-39-768x1024.jpg",
+    "images1": "https://uploadkon.ir/uploads/da7301_26photo-5-2026-02-17-14-16-39-768x1024.jpg",
     "tags": "جدید",
     "discount_percent": "0"
   }
